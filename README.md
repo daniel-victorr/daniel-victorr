@@ -8,7 +8,7 @@
 
 - Estudo Html5 , Css3 , JavaScript , Java.
 
- ** BUSCO UM ESTÁGIO! CONTRATA-ME EMAIL: danielvitor1910o@gmail.com CELULAR : (62) 993951246
+ -> BUSCO UM ESTÁGIO! CONTRATA-ME EMAIL: danielvitor1910o@gmail.com CELULAR : (62) 993951246
 <div align="center">
   <a href="https://daniel-victtor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniel-victorr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
