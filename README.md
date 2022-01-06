@@ -33,7 +33,7 @@
    
    
  
-   ![Snake animation](https://github.com/daniel-victorr/daniel-victorr/gitHub/workflow/cobra/main.)
+   ![Snake animation](https://github.com/daniel-victorr/daniel-victorr/https://github.com/daniel-victorr/daniel-victorr/gitHub/workflow/cobra/main.)
 
    
 </div>
