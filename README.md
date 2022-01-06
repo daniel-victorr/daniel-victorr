@@ -32,5 +32,5 @@
   <a href = "mailto:danielvitor1910o@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=#ffffff" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-victor-55312a210/overlay/contact-info/#:~:text=linkedin.com/in/daniel%2Dvictor%2D55312a210" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
-  ![Snake animation](https://github.com/daniel-victorr/daniel-victorr/blob/main/github/workflows/main.yml)
+  ![Snake animation](github/workflows/main.yml)
 </div>
