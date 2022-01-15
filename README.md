@@ -4,9 +4,9 @@
 
 - Moro em GO-Goiânia.
 
-- Curso Engenharia de Software estou no 2º período.
+- Curso: Engenharia de Software estou no 2º período.
 
-- Estudo Html5 , Css3 , JavaScript , Java , Delphi.
+- Estudo: Html5 , Css3 , JavaScript , Java , Delphi.
 
  -> BUSCO UM ESTÁGIO! CONTRATA-ME EMAIL: danielvitor1910o@gmail.com CELULAR : (62) 993951246
 <div align="center">
