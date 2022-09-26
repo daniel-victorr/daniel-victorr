@@ -6,7 +6,7 @@
 
 - Curso: Engenharia de Software estou no 3º período.
 
-- Estudo: Html5 , Css3 , JavaScript , Java , Node.js, React.js, JavaEE, Delphi , SQL.
+- Estudo: Html5 , Css3 , JavaScript , Node.js , React.js , Java , JavaEE, Delphi , SQL.
 
  -> EMAIL: danielvitor1910o@gmail.com CELULAR : (62) 993951246
 <div align="center">
