@@ -4,7 +4,7 @@
 
 - Moro em GO-Goiânia.
 
-- Curso: Engenharia de Software estou no 4º período.
+- Curso: Engenharia de Software 4º período.
 
 - Estudo: Html5 , Css3 , JavaScript , Node.js , React.js , Java , JavaEE, Delphi , SQL.
 
