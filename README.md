@@ -4,9 +4,9 @@
 
 - Moro em GO-Goiânia.
 
-- Curso: Engenharia de Software 4º período.
+- Curso: Ciência da Computação.
 
-- Estudo: Html5, Css3, JavaScript, Node.js, React.js, Java, Python, SQL, ETL, Power BY, Web Scraping, Excel.
+- Estudo: Html5, Css3, JavaScript, Node.js, Delphi, React.js, Java, Python, SQL, ETL, Power BY, Web Scraping, Excel.
 
  -> EMAIL: danielvitor1910o@gmail.com CELULAR : (62) 993951246
 <div align="center">
